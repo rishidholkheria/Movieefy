@@ -4,7 +4,7 @@ import "./App.css";
 import Add from "./components/Add";
 import Header from "./components/Header";
 import Watched from "./components/Watched";
-import Watchlist from "./components/Watchlist";
+import {Watchlist} from "./components/Watchlist";
 import { GlobalProvider } from "./context/GlobalState";
 import "./lib/font-awesome/css//all.min.css";
 
