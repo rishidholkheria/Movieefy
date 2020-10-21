@@ -9,7 +9,7 @@ const { watched } = useContext(GlobalContext);
     <div className="movie-page">
       <div className="container">
         <div className="header">
-          <h1 className="heading">My Watchlist</h1>
+          <h1 className="heading">My Watched</h1>
 
           <span className="count-pill">
             {watched.length} {watched.length === 1 ? "Movie" : "Movies"}

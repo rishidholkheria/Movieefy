@@ -25,6 +25,9 @@ const Add = () => {
 
   return (
     <div className="add-page">
+      <center>
+      <h1>Search for your favourite movies here!!!😎💙</h1>
+      </center>
       <div className="container">
         <div className="add-content">
           <div className="input-wrapper">
